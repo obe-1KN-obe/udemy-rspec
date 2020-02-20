@@ -45,7 +45,7 @@ RSpec.describe Product do
     end
 
     it "returns the inventory value of all products" do
-        puts Product.inventory_value
+        #puts Product.inventory_value
         expect(Product.inventory_value).to eq(100)
     end
 end

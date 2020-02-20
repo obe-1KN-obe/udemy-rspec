@@ -1,0 +1,1 @@
+Create a spec for testing if a word is a palindrome
